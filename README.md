@@ -1,8 +1,43 @@
-# React + Vite
+# 🌟 Ananya Srivastava – Web Developer & Designer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Namaste and welcome to my portfolio repository!  
+This repository showcases my skills and experiences through a modern and responsive portfolio website.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Portfolio  
+Explore my work live here:  
+**[https://portfolio-ananyasrivastava.netlify.app/](https://portfolio-ananyasrivastava.netlify.app/)**
+
+---
+
+## ✨ Features
+- 🎨 Sleek and responsive design  
+- ⚛ Built with React.js and *Bootstrap*  
+- 🧭 User-friendly navigation  
+- 📬 Dedicated “Contact” section for seamless reachability  
+
+---
+
+## 🛠 Tech Stack
+- ⚛ Frontend Framework: React.js  
+- 💠 Styling & Components:Bootstrap, CSS  
+- ☁ Hosting: Netlify  
+- 🐙 Version Control: Git & GitHub  
+
+---
+
+## 👩‍💻 About Me
+Hi, I’m Ananya Srivastava, a passionate web developer dedicated to crafting interactive and meaningful digital experiences.  
+I specialize in *React.js* and modern frameworks to build sleek, user-friendly applications.  
+
+---
+
+## 🌐 Connect with Me
+  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ananya-srivastava11)  
+- 📧 [Email](mailto:ananyasrivastava0211@gmail.com) 
+
+---
+
+✨ Thanks for visiting my portfolio repository! ✨
