@@ -1,4 +1,4 @@
-# 🌟 Ananya Srivastava – Web Developer & Designer
+# 🌟 Ananya Srivastava – Web Developer 
 
 Namaste and welcome to my portfolio repository!  
 This repository showcases my skills and experiences through a modern and responsive portfolio website.
